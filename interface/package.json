@@ -1,0 +1,16 @@
+{
+  "name": "interface",
+  "version": "1.0.0",
+  "description": "hello microservice for seneca.js example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "freeweed",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "seneca": "^3.4.3"
+  }
+}
